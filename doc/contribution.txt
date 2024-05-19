@@ -1,0 +1,15 @@
+Team 35
+
+Contributions till Milestone 1:
+
+Research and Analysis - Akshat, Ryan, Sai Prakash, Viswas, Manideep
+Grammar - Akshat, Ryan, Sai Prakash
+Design - Sai Prakash, Viswas, Ryan
+Lexer -  Manideep, Akshat
+
+Contributions for Milestone 2:
+
+Parser - Mandeep, Viswas
+Interpreter - Sai Prakash, Akshat
+Integration - Ryan
+Miscellaneous Tasks - Akshat, Viswas, Ryan, Manideep, Sai Prakash
